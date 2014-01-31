@@ -1,7 +1,7 @@
 Seb
 ===
 
-A framework for websites. the framework uses modules for functionality and templates for layout.
+A framework for websites. The framework uses modules for "functionality" and templates for layout.
 Based on https://github.com/mosbth/Anax-base
 
 
